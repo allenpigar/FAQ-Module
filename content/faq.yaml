@@ -1,7 +1,7 @@
 - id: "faq"
   web:
-    metaDescription: ""
-    metaTitle: "faq"
+    metaDescription: "Home insurance doesn’t have to be hard. Find easy-to-understand answers to your most important homeowners insurance questions in our FAQs."
+    metaTitle: "Home insurance FAQs"
     metaKeywords: null
     metaLinkText: ""
     pathPart: "faq"
@@ -16,9 +16,9 @@
     listed: true
   data:
     url: null
-    header_text: null
-    sub_header: null
-    sub_text: null
+    header_text: "Frequently asked questions about home insurance"
+    sub_header: "Got a hard question? Find easy answers."
+    sub_text: "Got a hard question? Find easy answers."
     featured_image: "3-f894c0a-qbhz7h"
     featured_image_alt: "aerial view of a charming neighborhood in the spring"
     featured_video: null
