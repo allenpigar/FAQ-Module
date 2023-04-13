@@ -1,0 +1,26 @@
+- id: "faq"
+  web:
+    metaDescription: ""
+    metaTitle: "faq"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "faq"
+    path: "/faq/"
+    parent: "/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    url: null
+    header_text: null
+    sub_header: null
+    sub_text: null
+    featured_image: "3-f894c0a-qbhz7h"
+    featured_image_alt: "aerial view of a charming neighborhood in the spring"
+    featured_video: null
+    schemamarkup: null
+    body: ""
